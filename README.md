@@ -1,20 +1,14 @@
-That's a fantastic final step\! A "humanized" README is welcoming, clearly communicates the project's value, and walks the user through the setup without being overly dense.
 
-Here is a full README markdown content for your **TelexLinter** project, designed to be engaging, informative, and complete for your GitHub submission.
 
------
+## TelexLinter - Your AI Code Review Buddy
 
-## ✨ README: TelexLinter - Your AI Code Review Buddy
-
-### 🤖 The Project: TelexLinter
 
 The **TelexLinter** is a specialized AI Agent built to enhance developer workflows directly inside **Telex.im**. Tired of minor security bugs or outdated API calls slipping through code review? Send your code snippet to the **TelexLinter** chat, and it will provide an immediate, structured review with a clean, refactored solution.
 
 This project was developed for the HNG Internship Stage 3 Backend Task.
 
-### 💡 Why TelexLinter Stands Out
+### Features
 
-This agent is more than just a chatbot; it’s a **tool-equipped, context-aware system** thanks to the Mastra framework.
 
 | Feature | Value to You |
 | :--- | :--- |
@@ -25,7 +19,7 @@ This agent is more than just a chatbot; it’s a **tool-equipped, context-aware 
 
 -----
 
-## 🛠️ Tech Stack & Architecture
+##  Tech Stack & Architecture
 
 | Component | Technology | Role |
 | :--- | :--- | :--- |
@@ -36,7 +30,7 @@ This agent is more than just a chatbot; it’s a **tool-equipped, context-aware 
 
 -----
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -51,7 +45,7 @@ You need the following installed:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [Your Repo URL]
+    git clone [ Repo URL]
     cd TelexLinter
     ```
 2.  **Install Dependencies:**
@@ -64,7 +58,7 @@ You need the following installed:
     OPENAI_API_KEY="sk-..."
     ```
 4.  **Build and Deploy:**
-    Follow your chosen platform's guide to build and deploy the Mastra application. This will give you your base domain (e.g., `https://telex-linter.vercel.app`).
+    Follow your chosen platform's guide to build and deploy the Mastra application. This will give you your base domain 
 
 -----
 
@@ -111,12 +105,4 @@ Paste your finalized A2A Endpoint URL into the `url` field of the **A2A Node** w
 
 -----
 
-## ✍️ Contribution
 
-Feedback, issues, and contributions are welcome\! This project aims to showcase best practices for building robust, protocol-aware AI agents.
-
-### 👤 Author
-
-  * **[Your Name]** - HNG Internship Backend Wizard
-
------
