@@ -62,7 +62,7 @@ You need the following installed:
 
 -----
 
-## 🧪 Testing and Integration
+##  Testing and Integration
 
 ### 1\. The Critical Endpoint
 
